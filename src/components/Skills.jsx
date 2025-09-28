@@ -6,11 +6,11 @@ const Skills = () => {
       title: 'Backend Development',
       icon: '⚙️',
       skills: [
-        { name: '.NET Core', level: 75 },
+        { name: '.NET Core', level: 80 },
         { name: 'C#', level: 80 },
         { name: 'ASP.NET Web API', level: 70 },
-        { name: 'Entity Framework', level: 65 },
-        { name: 'SQL Server', level: 70 },
+        { name: 'Entity Framework', level: 75 },
+        { name: 'SQL Server', level: 90 },
         { name: 'Azure', level: 50 }
       ]
     },
@@ -18,9 +18,9 @@ const Skills = () => {
       title: 'Frontend Development',
       icon: '🎨',
       skills: [
-        { name: 'React', level: 75 },
-        { name: 'JavaScript', level: 80 },
-        { name: 'TypeScript', level: 60 },
+        { name: 'React', level: 50 },
+        { name: 'JavaScript', level: 45 },
+        { name: 'TypeScript', level: 30 },
         { name: 'HTML5', level: 85 },
         { name: 'CSS3', level: 80 },
         { name: 'Bootstrap', level: 70 }
@@ -43,7 +43,7 @@ const Skills = () => {
       icon: '🛠️',
       skills: [
         { name: 'Git', level: 75 },
-        { name: 'Docker', level: 40 },
+        { name: 'Docker', level: 20 },
         { name: 'Visual Studio', level: 85 },
         { name: 'VS Code', level: 80 },
         { name: 'Postman', level: 70 },

@@ -14,19 +14,7 @@
   margin-bottom: 4rem;
 }
 
-.section-title {
-  font-size: 2.5rem;
-  font-weight: 700;
-  color: #1f2937;
-  margin-bottom: 1rem;
-}
-
-.section-subtitle {
-  font-size: 1.1rem;
-  color: #6b7280;
-  max-width: 600px;
-  margin: 0 auto;
-}
+/* Section title and subtitle styles are now in App.css */
 
 .skills-grid {
   display: grid;
@@ -226,7 +214,7 @@
 .timeline::before {
   content: '';
   position: absolute;
-  left: 1rem;
+  left: 0.30rem;
   top: 0;
   bottom: 0;
   width: 2px;
@@ -286,9 +274,7 @@
     padding: 0 1rem;
   }
 
-  .section-title {
-    font-size: 2rem;
-  }
+  /* Section title responsive styles are in App.css */
 
   .skills-grid {
     grid-template-columns: 1fr;
@@ -312,7 +298,7 @@
   }
 
   .timeline::before {
-    left: 0.75rem;
+    left: 1.125rem;
   }
 
   .timeline-item {

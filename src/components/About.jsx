@@ -2,16 +2,16 @@ import './About.css'
 
 const About = () => {
   const technologies = [
-    { name: '.NET Core', level: 75 },
+    { name: '.NET Core', level: 80 },
     { name: 'C#', level: 80 },
-    { name: 'Blazor', level: 70 },
-    { name: 'React', level: 75 },
-    { name: 'JavaScript', level: 80 },
-    { name: 'TypeScript', level: 60 },
-    { name: 'SQL Server', level: 70 },
-    { name: 'Entity Framework', level: 65 },
+    { name: 'Blazor', level: 80 },
+    { name: 'React', level: 50 },
+    { name: 'JavaScript', level: 45 },
+    { name: 'TypeScript', level: 30 },
+    { name: 'SQL Server', level: 90 },
+    { name: 'Entity Framework', level: 75 },
     { name: 'Azure', level: 50 },
-    { name: 'Docker', level: 40 }
+    { name: 'Docker', level: 20 }
   ]
 
   return (
@@ -98,8 +98,8 @@ const About = () => {
             <div className="stat-label">Years Support</div>
           </div>
           <div className="stat-item">
-            <div className="stat-number">100%</div>
-            <div className="stat-label">Dedication</div>
+            <div className="stat-number">0</div>
+            <div className="stat-label">Completed Projects</div>
           </div>
         </div>
       </div>

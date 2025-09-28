@@ -213,8 +213,8 @@ const Contact = () => {
       <footer className="footer">
         <div className="container">
           <div className="footer-content">
-            <p>&copy; 2024 Your Name. All rights reserved.</p>
-            <p>Built with React, .NET, and ❤️</p>
+            <p>&copy; 2024 Lewis Paine. All rights reserved.</p>
+            <p>Built with React and .NET</p>
           </div>
         </div>
       </footer>
