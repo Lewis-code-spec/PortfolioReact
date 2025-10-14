@@ -37,26 +37,26 @@ const Contact = () => {
     {
       icon: '📧',
       title: 'Email',
-      value: 'your.email@example.com',
-      link: 'mailto:your.email@example.com'
+      value: 'lewisnewtonpaine@hotmail.com',
+      link: 'mailto:lewisnewtonpaine@hotmail.com'
     },
     {
       icon: '📱',
       title: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567'
+      value: '07948515235',
+      link: 'tel:07948515235'
     },
     {
       icon: '📍',
       title: 'Location',
-      value: 'Your City, Country',
+      value: 'Harlow, Essex',
       link: '#'
     },
     {
       icon: '💼',
       title: 'LinkedIn',
       value: 'linkedin.com/in/yourprofile',
-      link: 'https://linkedin.com/in/yourprofile'
+      link: 'https://linkedin.com/in/lewis-paine-2486a3172'
     }
   ]
 
@@ -64,25 +64,25 @@ const Contact = () => {
     {
       name: 'GitHub',
       icon: 'github',
-      url: 'https://github.com/yourusername',
+      url: 'https://github.com/Lewis-code-spec',
       color: '#333'
     },
     {
       name: 'LinkedIn',
       icon: 'linkedin',
-      url: 'https://linkedin.com/in/yourprofile',
+      url: 'https://linkedin.com/in/lewis-paine-2486a3172',
       color: '#0077b5'
     },
     {
       name: 'Twitter',
       icon: 'twitter',
-      url: 'https://twitter.com/yourusername',
+      url: 'https://x.com/LewisPaine11',
       color: '#1da1f2'
     },
     {
       name: 'Email',
       icon: 'email',
-      url: 'mailto:your.email@example.com',
+      url: 'mailto:lewisnewtonpaine@hotmail.com',
       color: '#ea4335'
     }
   ]
